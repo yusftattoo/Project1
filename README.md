@@ -4,10 +4,8 @@
 <html lang="en">
 <head>
    
- Ilk Calisma
- # Deneme
-sdgksnglkg
-dfgdkfhsdh
+ <h2> Kodluyoruz Ilk Repo </h2>
+<p>Kodluyoruz Eğitimi kapsamında açtığım ilk rep </p>
   
 [lorem ipsum] (http://google.com)
 
